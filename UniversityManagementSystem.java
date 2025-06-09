@@ -1,16 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package com.mycompany.universitymanagementsystem;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- *
- * @author LENOVO
- */
 public class UniversityManagementSystem  {
     
     static ArrayList<Student> studentList = new ArrayList<>();
